@@ -1,5 +1,6 @@
-# Olá, sou Otávio Henrique.
-Sou Otávio Henrique, formado em Análise e Desenvolvimento de Sistemas, com grande interesse em atuar na área de Desenvolvimento Front-End. Sou uma pessoa dedicada, proativa e comprometida com o aprendizado contínuo, buscando desenvolver soluções de qualidade e evoluir profissionalmente por meio de novos desafios e experiências na área de tecnologia.🚀<br>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&size=50&pause=1000&color=16A1FF&background=FFFFFF00&width=1000&height=120&lines=Seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+ Sou Otávio Henrique, formado em Análise e Desenvolvimento de Sistemas, com grande interesse em atuar na área de Desenvolvimento Front-End. Sou uma pessoa dedicada, proativa e comprometida com o aprendizado contínuo, buscando desenvolver soluções de qualidade e evoluir profissionalmente por meio de novos desafios e experiências na área de tecnologia.🚀<br>
 
 
 ## 🌐 Conecte-se comigo
